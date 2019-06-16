@@ -1,0 +1,1545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551251508295536,
+                    50.35064477662934,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 44",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.37.2",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "За напрямком",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "76",
+                "pictureName": "76_2018-10-01 15-29-32.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/76\/76_2018-10-01 15-29-32.jpg",
+                "created": "2018-10-01-15-29-17",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551251508295536,
+                    50.350644562693844,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 43",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.37.1",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "75",
+                "pictureName": "75_2018-10-01 15-29-01.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/75\/75_2018-10-01 15-29-01.jpg",
+                "created": "2018-10-01-15-28-26",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551255531609055,
+                    50.35075944591862,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 42",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "6.11.1",
+                "group_pdr": "6. Знаки сервісу",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "73",
+                "pictureName": "73_2018-10-01 15-26-17.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/73\/73_2018-10-01 15-26-17.jpg",
+                "created": "2018-10-01-15-25-54",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "72",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551255531609055,
+                    50.350759018048656,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 41",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "6.8.1",
+                "group_pdr": "6. Знаки сервісу",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "72",
+                "pictureName": "72_2018-10-01 15-25-28.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/72\/72_2018-10-01 15-25-28.jpg",
+                "created": "2018-10-01-15-25-11",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551255531609055,
+                    50.35075880411365,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 40",
+                "description": "dz",
+                "id_vul": 1472,
+                "id_ray": "10",
+                "num_pdr": "7.6.1",
+                "group_pdr": "6. Знаки сервісу",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "71",
+                "pictureName": "71_2018-10-01 15-24-39.jpg|71_2018-10-01 15-24-56.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/71\/71_2018-10-01 15-24-39.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/71\/71_2018-10-01 15-24-56.jpg",
+                "created": "2018-10-01-15-23-07",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551255531609055,
+                    50.350758590178685,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 39",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Заколотного, пл. Одеська, сервісний центр Рітрама Україна.",
+                "direc_act": "Праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "70",
+                "pictureName": "70_2018-10-01 15-22-42.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/70\/70_2018-10-01 15-22-42.jpg",
+                "created": "2018-10-01-15-21-27",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551255531609055,
+                    50.35075837624371,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 38",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "пл. Одеська, автовокзал,  аеропорт Київ",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "69",
+                "pictureName": "69_2018-10-01 15-20-14.jpg|69_2018-10-01 15-20-41.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/69\/69_2018-10-01 15-20-14.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/69\/69_2018-10-01 15-20-41.jpg",
+                "created": "2018-10-01-15-19-14",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5511274561286,
+                    50.3510210876818,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 37",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.41",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "д.з. по старому ДСТУ-4100:2002",
+                "changed": "",
+                "pictureFolder": "67",
+                "pictureName": "67_2018-10-01 15-16-21.jpg|67_2018-10-01 15-16-33.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/67\/67_2018-10-01 15-16-21.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/67\/67_2018-10-01 15-16-33.jpg",
+                "created": "2018-10-01-15-16-00",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551136173307892,
+                    50.351269678111336,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 36",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Одеса,  ТРЙ АртМолл",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "64",
+                "pictureName": "64_2018-10-01 15-12-36.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/64\/64_2018-10-01 15-12-36.jpg",
+                "created": "2018-10-01-15-11-54",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "63",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.551136173307892,
+                    50.35126946417862,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 35",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "центр, вокзал, НСК Олімпійський",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "63",
+                "pictureName": "63_2018-10-01 15-11-06.jpg|63_2018-10-01 15-11-34.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/63\/63_2018-10-01 15-11-06.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/63\/63_2018-10-01 15-11-34.jpg",
+                "created": "2018-10-01-15-10-21",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.550967529416084,
+                    50.351936073745435,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 34",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.52",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Вибухів, Українка",
+                "direc_act": "Праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "61",
+                "pictureName": "61_2018-10-01 15-07-22.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/61\/61_2018-10-01 15-07-22.jpg",
+                "created": "2018-10-01-15-06-38",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.550967529416084,
+                    50.35193585981575,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 33",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Одеса,  металоцентр Савватс",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "60",
+                "pictureName": "60_2018-10-01 15-05-31.jpg|60_2018-10-01 15-06-08.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/60\/60_2018-10-01 15-05-31.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/60\/60_2018-10-01 15-06-08.jpg",
+                "created": "2018-10-01-15-04-26",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.550797544419765,
+                    50.352605027146716,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 32",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Заколотного, Матикіна,  ж\/к Лісовий",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "58",
+                "pictureName": "58_2018-10-01 15-02-15.jpg|58_2018-10-01 15-02-35.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/58\/58_2018-10-01 15-02-15.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/58\/58_2018-10-01 15-02-35.jpg",
+                "created": "2018-10-01-15-01-05",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.550141409039497,
+                    50.35526277767113,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 31",
+                "description": "dz",
+                "id_vul": 1142,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Плати, Українка, лікарня ізраїльської онкології",
+                "direc_act": "Праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "2018-10-01-14-55-53",
+                "pictureFolder": "56",
+                "pictureName": "56_2018-10-01 14-55-20.jpg|56_2018-10-01 14-55-35.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/56\/56_2018-10-01 14-55-20.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/56\/56_2018-10-01 14-55-35.jpg",
+                "created": "2018-10-01-14-54-21",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549661293625828,
+                    50.35724978966182,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 30",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Козирьок,  ресторан Тандир.. ",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "54",
+                "pictureName": "54_2018-10-01 14-48-22.jpg|54_2018-10-01 14-48-38.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/54\/54_2018-10-01 14-48-22.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/54\/54_2018-10-01 14-48-38.jpg",
+                "created": "2018-10-01-14-47-46",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54953690618277,
+                    50.35791096769567,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 29",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Житомир,  місто автомобілістів Відсутня автосвіт",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "52",
+                "pictureName": "52_2018-10-01 14-45-28.jpg|52_2018-10-01 14-45-51.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/52\/52_2018-10-01 14-45-28.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/52\/52_2018-10-01 14-45-51.jpg",
+                "created": "2018-10-01-14-44-41",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549040697515007,
+                    50.36169796498389,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 28",
+                "description": "dz",
+                "id_vul": 2522,
+                "id_ray": "10",
+                "num_pdr": "2.1",
+                "group_pdr": "2. Знаки пріоритету",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "50",
+                "pictureName": "50_2018-10-01 14-38-06.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/50\/50_2018-10-01 14-38-06.jpg",
+                "created": "2018-10-01-14-37-45",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549083948135372,
+                    50.36193687470342,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 27",
+                "description": "dz",
+                "id_vul": 1472,
+                "id_ray": "10",
+                "num_pdr": "2.3",
+                "group_pdr": "2. Знаки пріоритету",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "48",
+                "pictureName": "48_2018-10-01 14-35-01.jpg|48_2018-10-01 14-35-21.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/48\/48_2018-10-01 14-35-01.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/48\/48_2018-10-01 14-35-21.jpg",
+                "created": "2018-10-01-14-34-43",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549083948135372,
+                    50.361936660818806,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 26",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "4.1",
+                "group_pdr": "4. Наказові знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "помальований д.з.",
+                "changed": "",
+                "pictureFolder": "47",
+                "pictureName": "47_2018-10-01 14-33-54.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/47\/47_2018-10-01 14-33-54.jpg",
+                "created": "2018-10-01-14-33-37",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54906751960516,
+                    50.36260868153392,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 25",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.52",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Одеса,  Луганськ ",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "45",
+                "pictureName": "45_2018-10-01 14-29-55.jpg|45_2018-10-01 14-30-21.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/45\/45_2018-10-01 14-29-55.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/45\/45_2018-10-01 14-30-21.jpg",
+                "created": "2018-10-01-14-29-02",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54906751960516,
+                    50.36260846765233,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 24",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.52",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "III",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Коваль, Львів ",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "44",
+                "pictureName": "44_2018-10-01 14-28-26.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/44\/44_2018-10-01 14-28-26.jpg",
+                "created": "2018-10-01-14-27-14",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549065843224522,
+                    50.362696800667436,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 23",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "4.9",
+                "group_pdr": "4. Наказові знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "д.з. зі світлодіодною підсвіткою",
+                "changed": "2018-10-01-14-26-11",
+                "pictureFolder": "41",
+                "pictureName": "41_2018-10-01 14-23-48.jpg|41_2018-10-01 14-24-00.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/41\/41_2018-10-01 14-23-48.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/41\/41_2018-10-01 14-24-00.jpg",
+                "created": "2018-10-01-14-23-44",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54903533309698,
+                    50.36309440414066,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 22",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Постановка мототранспорта за 15 метров",
+                "direc_act": "Праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "40",
+                "pictureName": "40_2018-10-01 14-22-51.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/40\/40_2018-10-01 14-22-51.jpg",
+                "created": "2018-10-01-14-22-14",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54903533309698,
+                    50.36309397638185,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 21",
+                "description": "dz",
+                "id_vul": 1472,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "Место вьісадки пассажиров",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "39",
+                "pictureName": "39_2018-10-01 14-21-50.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/39\/39_2018-10-01 14-21-50.jpg",
+                "created": "2018-10-01-14-20-56",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54903533309698,
+                    50.36309354862305,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 20",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "3.29",
+                "group_pdr": "3. Заборонні знаки",
+                "type_size": "II",
+                "unit_meas": "Кілометр на годину",
+                "value": "5",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "38",
+                "pictureName": "38_2018-10-01 14-20-14.jpg|38_2018-10-01 14-20-32.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/38\/38_2018-10-01 14-20-14.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/38\/38_2018-10-01 14-20-32.jpg",
+                "created": "2018-10-01-14-19-35",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54907657206058,
+                    50.36327235146932,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 19",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "6.7.1",
+                "group_pdr": "6. Знаки сервісу",
+                "type_size": "II",
+                "unit_meas": "Метр",
+                "value": "60",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "пошкоджена плівка д.з.",
+                "changed": "",
+                "pictureFolder": "35",
+                "pictureName": "35_2018-10-01 14-12-58.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/35\/35_2018-10-01 14-12-58.jpg",
+                "created": "2018-10-01-14-11-56",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54905008524656,
+                    50.36442086565359,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 18",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.41",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "д.з. по старому ДСТУ-4100:2002",
+                "changed": "",
+                "pictureFolder": "32",
+                "pictureName": "32_2018-10-01 14-07-05.jpg|32_2018-10-01 14-07-19.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/32\/32_2018-10-01 14-07-05.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/32\/32_2018-10-01 14-07-19.jpg",
+                "created": "2018-10-01-14-06-40",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54906517267227,
+                    50.36620774447219,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 17",
+                "description": "dz",
+                "id_vul": 322,
+                "id_ray": "10",
+                "num_pdr": "3.21",
+                "group_pdr": "3. Заборонні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "розмальований д.з.",
+                "changed": "",
+                "pictureFolder": "30",
+                "pictureName": "30_2018-10-01 13-53-52.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/30\/30_2018-10-01 13-53-52.jpg",
+                "created": "2018-10-01-13-53-51",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54915100336075,
+                    50.3661713873451,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 16",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "4.9",
+                "group_pdr": "4. Наказові знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "28",
+                "pictureName": "28_2018-10-01 13-51-32.jpg|28_2018-10-01 13-51-45.jpg|28_2018-10-01 13-52-03.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/28\/28_2018-10-01 13-51-32.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/28\/28_2018-10-01 13-51-45.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/28\/28_2018-10-01 13-52-03.jpg",
+                "created": "2018-10-01-13-51-12",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54917380213737,
+                    50.36719472289796,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 15",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "ЗІП",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "III",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "аутлет-містечко мануфактура, Канів",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "26",
+                "pictureName": "26_2018-10-01 13-44-15.jpg|26_2018-10-01 13-45-42.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/26\/26_2018-10-01 13-44-15.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/26\/26_2018-10-01 13-45-42.jpg",
+                "created": "2018-10-01-13-42-03",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54919995367527,
+                    50.368423337998735,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 14",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.16.1",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "24",
+                "pictureName": "24_2018-10-01 13-37-20.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/24\/24_2018-10-01 13-37-20.jpg",
+                "created": "2018-10-01-13-32-40",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54919995367527,
+                    50.368423124143355,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 13",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "2.1",
+                "group_pdr": "2. Знаки пріоритету",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "23",
+                "pictureName": "23_2018-10-01 13-32-13.jpg|23_2018-10-01 13-32-26.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/23\/23_2018-10-01 13-32-13.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/23\/23_2018-10-01 13-32-26.jpg",
+                "created": "2018-10-01-13-31-55",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549147315323353,
+                    50.3685903587617,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 12",
+                "description": "dz",
+                "id_vul": 1472,
+                "id_ray": "10",
+                "num_pdr": "4.9",
+                "group_pdr": "4. Наказові знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "20",
+                "pictureName": "20_2018-10-01 13-28-17.jpg|20_2018-10-01 13-28-44.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/20\/20_2018-10-01 13-28-17.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/20\/20_2018-10-01 13-28-44.jpg",
+                "created": "2018-10-01-13-27-58",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549017563462257,
+                    50.3686720511615,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 11",
+                "description": "dz",
+                "id_vul": 2522,
+                "id_ray": "10",
+                "num_pdr": "5.7.1",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку-праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "2018-10-01-13-26-54",
+                "pictureFolder": "19",
+                "pictureName": "19_2018-10-01 13-26-05.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/19\/19_2018-10-01 13-26-05.jpg",
+                "created": "2018-10-01-13-25-48",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549017563462257,
+                    50.36867140959871,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 10",
+                "description": "dz",
+                "id_vul": 2522,
+                "id_ray": "10",
+                "num_pdr": "2.1",
+                "group_pdr": "2. Знаки пріоритету",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку-праворуч",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "2018-10-01-13-27-05",
+                "pictureFolder": "18",
+                "pictureName": "18_2018-10-01 13-25-16.jpg|18_2018-10-01 13-25-33.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/18\/18_2018-10-01 13-25-16.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/18\/18_2018-10-01 13-25-33.jpg",
+                "created": "2018-10-01-13-23-36",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54905913770199,
+                    50.36879843886421,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 9",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.16",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "16",
+                "pictureName": "16_2018-10-01 13-19-56.jpg|16_2018-10-01 13-20-26.jpg|16_2018-10-01 13-20-43.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/16\/16_2018-10-01 13-19-56.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/16\/16_2018-10-01 13-20-26.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/16\/16_2018-10-01 13-20-43.jpg",
+                "created": "2018-10-01-13-19-36",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549254268407818,
+                    50.36917845536045,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 8",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "4.1",
+                "group_pdr": "4. Наказові знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "14",
+                "pictureName": "14_2018-10-01 13-16-29.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/14\/14_2018-10-01 13-16-29.jpg",
+                "created": "2018-10-01-13-16-10",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549254268407818,
+                    50.36917824150845,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 7",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "2.3",
+                "group_pdr": "2. Знаки пріоритету",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "13",
+                "pictureName": "13_2018-10-01 13-14-41.jpg|13_2018-10-01 13-15-32.jpg|13_2018-10-01 13-15-48.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/13\/13_2018-10-01 13-14-41.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/13\/13_2018-10-01 13-15-32.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/13\/13_2018-10-01 13-15-48.jpg",
+                "created": "2018-10-01-13-14-22",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54906081408262,
+                    50.369834334860705,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 6",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "7.2.4",
+                "group_pdr": "7. Таблички до дорожніх знаків",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "11",
+                "pictureName": "11_2018-10-01 13-12-06.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/11\/11_2018-10-01 13-12-06.jpg",
+                "created": "2018-10-01-13-12-02",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54906081408262,
+                    50.369833907162636,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 5",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "3.34",
+                "group_pdr": "3. Заборонні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "10",
+                "pictureName": "10_2018-10-01 13-11-12.jpg|10_2018-10-01 13-11-28.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/10\/10_2018-10-01 13-11-12.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/10\/10_2018-10-01 13-11-28.jpg",
+                "created": "2018-10-01-13-10-53",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549083948135372,
+                    50.369834762558774,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 4",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.16",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "9",
+                "pictureName": "9_2018-10-01 13-10-06.jpg|9_2018-10-01 13-10-32.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/9\/9_2018-10-01 13-10-06.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/9\/9_2018-10-01 13-10-32.jpg",
+                "created": "2018-10-01-13-09-52",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549068525433544,
+                    50.370245137064245,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 3",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.5",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "6",
+                "pictureName": "6_2018-10-01 13-05-54.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/6\/6_2018-10-01 13-05-54.jpg",
+                "created": "2018-10-01-13-05-40",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.549068525433544,
+                    50.370244923217086,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 2",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "3.34",
+                "group_pdr": "3. Заборонні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "",
+                "changed": "",
+                "pictureFolder": "5",
+                "pictureName": "5_2018-10-01 13-05-07.jpg|5_2018-10-01 13-05-33.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/5\/5_2018-10-01 13-05-07.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/5\/5_2018-10-01 13-05-33.jpg",
+                "created": "2018-10-01-13-04-54",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.54907087236643,
+                    50.370368099031175,
+                    -1
+                ]
+            },
+            "properties": {
+                "name": "WPT 1",
+                "description": "dz",
+                "id_vul": 1172,
+                "id_ray": "10",
+                "num_pdr": "5.41",
+                "group_pdr": "5. Інформаційно-вказівні знаки",
+                "type_size": "II",
+                "unit_meas": "Дані відсутні",
+                "value": "",
+                "gener_descr": "",
+                "direc_act": "Проти напрямку",
+                "pers_ov": "Білорус Андрій",
+                "unit_ov": "Служба з контролю за розміщенням та технічним станом ТЗРДР та вдосконаленням безпеки дорожнього руху",
+                "comment": "д.з. по старому ДСТУ-4100:2002",
+                "changed": "",
+                "pictureFolder": "3",
+                "pictureName": "3_2018-10-01 13-03-02.jpg|3_2018-10-01 13-03-16.jpg",
+                "picturePath": "\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/3\/3_2018-10-01 13-03-02.jpg|\/storage\/emulated\/0\/MapIt\/Pictures\/dz\/3\/3_2018-10-01 13-03-16.jpg",
+                "created": "2018-10-01-13-02-30",
+                "altitude": -1,
+                "accuracy": -1
+            }
+        }
+    ]
+}
