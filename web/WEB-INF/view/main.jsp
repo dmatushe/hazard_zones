@@ -53,9 +53,9 @@
                 <br/>
                 <div class="form-group">
                     <label for="hazard_object"><fmt:message key="text.choose.an.object"/></label>
-                    <select class="form-control" name="hazard_object" id="hazard_object">
+                    <select class="form-control" name="object_id" id="hazard_object">
                         <c:forEach items="${requestScope.hazard_objects}" var="hazard_object">
-                            <option value="${requestScope.gid}">${requestScope.name}</option>
+                            <option value="${hazard_object.gid}">${hazard_object.name}</option>
                         </c:forEach>
                     </select>
                 </div>
@@ -63,9 +63,9 @@
                 <br/>
                 <div class="form-group">
                     <label for="hazard_class"><fmt:message key="text.choose.class"/></label>
-                    <select class="form-control" name="hazard_class" id="hazard_class">
+                    <select class="form-control" name="class_id" id="hazard_class">
                         <c:forEach items="${requestScope.hazard_classes}" var="hazard_class">
-                            <option value="${requestScope.id}">${requestScope.classType}</option>
+                            <option value="${hazard_class.id}">${hazard_class.classType}</option>
                         </c:forEach>
                     </select>
                 </div>
@@ -76,13 +76,11 @@
                            value="<fmt:message key="text.calculate.button"/>"/>
                 </div>
             </form>
-            <jstl:if test="${not empty requestScope.result_data}">
-                <p><fmt:message key="text.calculation.result.button"/> ${requestScope.calculation_result}</p>
+            <jstl:if test="${not empty requestScope.result_population}">
+                <p><fmt:message key="text.impact.population"/> ${requestScope.result_population}</p>
             </jstl:if>
         </div>
-        <jstl:if test="${not empty requestScope.result_population}">
-            <p><fmt:message key="text.impact.population"/> ${requestScope.result_population}</p>
-        </jstl:if>
+
         <div class="col-1"></div>
     </div>
 </div>

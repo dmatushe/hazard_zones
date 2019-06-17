@@ -18,36 +18,46 @@
 <html>
 <head>
     <title><fmt:message key="text.title.main"/></title>
-    <link rel="stylesheet" type="text/css" href="<c:url value="../../resources/css/bootstrap.css"/>">
-    <link rel="stylesheet" type="text/js" href="<c:url value="../../resources/js/bootstrap.js"/>">
+    <link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/bootstrap.css"/>">
+    <link rel="stylesheet" type="text/js" href="<c:url value="/resources/js/bootstrap.js"/>">
 </head>
 
 <body>
 <%--HEADER--%>
 <jsp:include page="template/header.jsp"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<div class="row">
-    <div class="col-5"></div>
-    <div class="col-2">
-        <div class="btn-block">
-            <div align="center">
-                <a class="btn btn-outline-dark btn-block"
-                   style="background-color: #5a6268; color: #c8cbcf" role="button"
-                   href="${pageContext.request.contextPath}/hazard?action=main">
-                    <div align="center"><fmt:message key="text.go.on"/></div>
-                </a>
-            </div>
+<div class="bg">
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4">
+            <p>
+            <H4><b><fmt:message key="text.about"/></b></H4>
+            </p>
         </div>
-
+        <div class="col-4"></div>
     </div>
-    <div class="col-5"></div>
-</div>
+    <div class="row">
+        <div class="col-5"></div>
+        <div class="col-2">
+            <div class="btn-block">
+                <div align="center">
+                    <a class="btn btn-outline-dark btn-block"
+                       style="background-color: #5a6268; color: #c8cbcf" role="button"
+                       href="${pageContext.request.contextPath}/hazard?action=main">
+                        <div align="center"><fmt:message key="text.go.on"/></div>
+                    </a>
+                </div>
+            </div>
 
+        </div>
+        <div class="col-5"></div>
+    </div>
+</div>
 
 <%--FOOTER--%>
 <%--<jsp:include page="template/footer.jsp"/>--%>

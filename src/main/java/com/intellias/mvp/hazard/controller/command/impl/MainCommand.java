@@ -7,6 +7,7 @@ import com.intellias.mvp.hazard.model.entity.ImpactZone;
 import com.intellias.mvp.hazard.model.service.CalculateHazardZones;
 import com.intellias.mvp.hazard.model.service.JsonService;
 import com.intellias.mvp.hazard.model.service.impl.DefaultJsonService;
+import com.intellias.mvp.hazard.model.util.PathManager;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -30,7 +31,7 @@ public class MainCommand implements Command {
         request.setAttribute("hazard_objects", allObjects);
         request.setAttribute("hazard_classes", allZones);
         request.setAttribute("main_geojson", mainGeoJson);
-        return "/WEB-INF/view/main.jsp";
+        return PathManager.getProperty("path.page.main");
     }
 
 //    public static void main(String[] args) {

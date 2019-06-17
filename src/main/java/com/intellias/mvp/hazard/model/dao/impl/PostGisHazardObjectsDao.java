@@ -80,8 +80,22 @@ public class PostGisHazardObjectsDao implements HazardObjectsDao {
 
     @Override
     public Integer calculateImpactPopulation(Long objectId, Long zoneId) {
+        //TODO ПРОВЕРИТЬ ВЬЮШКУ НА ВСТАВЛЯЕМЫЕ ЗНАЧЕНИЯ
+        Integer result = 0;
+        try (PreparedStatement stm = connection.prepareStatement(SQLConnectionManager.getProperty("view_hazard_area_stat_view"))){
+            stm.setLong(1,objectId);
+            stm.setLong(2, zoneId);
+            ResultSet rs = stm.executeQuery();
+            if (rs.next()) {
+                result = rs.getInt("sum_population");
+            }
+        }catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+
         //СЧИТАЕТ КОЛИЧЕСТВО ПОСТРАДАВШИХ
-        return null;
+        return result;
     }
     private HazardObjects parseFromResultSet(ResultSet rs) throws SQLException {
         HazardObjects result = new HazardObjects();
@@ -98,11 +112,11 @@ public class PostGisHazardObjectsDao implements HazardObjectsDao {
         return result;
     }
 
-    public static void main(String[] args) {
-        HazardObjectsDao dao = DaoFactory.getInstance().getHazardObjectsDao();
-        List<HazardObjects> foo = dao.findAll();
-        System.out.println(foo);
-    }
+//    public static void main(String[] args) {
+//        HazardObjectsDao dao = DaoFactory.getInstance().getHazardObjectsDao();
+//        List<HazardObjects> foo = dao.findAll();
+//        System.out.println(foo);
+//    }
 }
 
 
