@@ -43,6 +43,8 @@
 <div class="bg">
     <div class="row">
         <div class="col-7">
+
+            <p>${main_geojson}</p>
             <%--LEAFLET CODE--%>
         </div>
         <div class="col-1"></div>

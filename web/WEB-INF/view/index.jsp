@@ -32,12 +32,15 @@
     <br/>
     <br/>
     <br/>
+    <br/>
+    <br/>
     <div class="row">
         <div class="col-4"></div>
         <div class="col-4">
-            <p>
-            <H4><b><fmt:message key="text.about"/></b></H4>
-            </p>
+            <div class="text-center">
+            <H5><b><fmt:message key="text.about"/></b></H5>
+            </div>
+            <br/>
         </div>
         <div class="col-4"></div>
     </div>

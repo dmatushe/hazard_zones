@@ -1,6 +1,7 @@
 package com.intellias.mvp.hazard.model.entity;
 
 import org.postgis.Geometry;
+import org.postgis.PGgeometry;
 
 import java.util.Objects;
 
@@ -12,7 +13,7 @@ public class HazardObjects {
     private String street;
     private String houseNum;
     private Integer classInt;
-    private Geometry geom;
+    private PGgeometry geom;
 
     public Long getGid() {
         return gid;
@@ -70,11 +71,11 @@ public class HazardObjects {
         this.classInt = classInt;
     }
 
-    public Geometry getGeom() {
+    public PGgeometry getGeom() {
         return geom;
     }
 
-    public void setGeom(Geometry geom) {
+    public void setGeom(PGgeometry geom) {
         this.geom = geom;
     }
 
@@ -85,17 +86,12 @@ public class HazardObjects {
         HazardObjects objects = (HazardObjects) o;
         return gid.equals(objects.gid) &&
                 Objects.equals(name, objects.name) &&
-                Objects.equals(classType, objects.classType) &&
-                Objects.equals(city, objects.city) &&
-                Objects.equals(street, objects.street) &&
-                Objects.equals(houseNum, objects.houseNum) &&
-                Objects.equals(classInt, objects.classInt) &&
                 geom.equals(objects.geom);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(gid, name, classType, city, street, houseNum, classInt, geom);
+        return Objects.hash(gid, name, geom);
     }
 
     @Override

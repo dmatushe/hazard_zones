@@ -5,6 +5,7 @@ import com.intellias.mvp.hazard.model.dao.HazardObjectsDao;
 import com.intellias.mvp.hazard.model.entity.HazardObjects;
 import com.intellias.mvp.hazard.model.util.SQLConnectionManager;
 import org.postgis.Geometry;
+import org.postgis.PGgeometry;
 import org.postgis.Point;
 
 import java.sql.*;
@@ -106,8 +107,8 @@ public class PostGisHazardObjectsDao implements HazardObjectsDao {
         result.setStreet(rs.getString("street"));
         result.setHouseNum(rs.getString("house_num"));
         result.setClassInt(rs.getInt("class_int"));
-      //TODO
-         //result.setGeom(rs.getString("geom"));
+        PGgeometry geom = (PGgeometry)rs.getObject("geom");
+        result.setGeom(geom);
 
         return result;
     }
@@ -115,7 +116,10 @@ public class PostGisHazardObjectsDao implements HazardObjectsDao {
 //    public static void main(String[] args) {
 //        HazardObjectsDao dao = DaoFactory.getInstance().getHazardObjectsDao();
 //        List<HazardObjects> foo = dao.findAll();
-//        System.out.println(foo);
+//        String coord = foo.get(1).getGeom().toString();
+//        String rescoord = coord.substring(coord.indexOf("(")+1,coord.indexOf(")")).replace(" ", ",");
+//        System.out.println(coord);
+//        System.out.println(rescoord);
 //    }
 }
 
