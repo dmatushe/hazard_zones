@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="escape_plan@localhost" uuid="06f82f99-6ed5-403c-8e9c-54e01c001a6f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/escape_plan</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="testing" uuid="bf2b3b30-4bff-43f4-aec1-7cb4dc7192d7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgis_24_sample</jdbc-url>
+    </data-source>
+  </component>
+</project>
