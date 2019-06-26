@@ -31,7 +31,7 @@
 
     <context-param>
         <param-name>javax.servlet.jsp.jstl.fmt.fallbackLocale</param-name>
-        <param-value>uk-UA</param-value>
+        <param-value>en_US</param-value>
     </context-param>
 
 

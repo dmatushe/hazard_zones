@@ -6,6 +6,15 @@ public class ImpactZone {
     private Long id;
     private String classType;
     private Integer radius_m;
+    private Integer classInt;
+
+    public Integer getClassInt() {
+        return classInt;
+    }
+
+    public void setClassInt(Integer classInt) {
+        this.classInt = classInt;
+    }
 
     public String getClassType() {
         return classType;
@@ -51,6 +60,7 @@ public class ImpactZone {
                 "id=" + id +
                 ", classType='" + classType + '\'' +
                 ", radius_m=" + radius_m +
+                ", classInt=" + classInt +
                 '}';
     }
 }

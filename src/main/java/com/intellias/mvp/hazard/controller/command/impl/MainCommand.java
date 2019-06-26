@@ -26,20 +26,20 @@ public class MainCommand implements Command {
         String mainGeoJson = jsonService.parseToMainGeoJson();
 //нужно вывести для выпадающих списков все объекты из базы и типы ситуаций.
         List<HazardObjects> allObjects = jsonService.findAllObjects();
-        List<ImpactZone> allZones = jsonService.findAllZones();
+       // List<ImpactZone> allZones = jsonService.findAllZones();
 
         request.setAttribute("hazard_objects", allObjects);
-        request.setAttribute("hazard_classes", allZones);
+       // request.setAttribute("hazard_classes", allZones);
         request.setAttribute("main_geojson", mainGeoJson);
         return PathManager.getProperty("path.page.main");
     }
 
-//    public static void main(String[] args) {
-//        JsonService jsonService = DefaultJsonService.getInstance();
-//       List<HazardObjects> all = jsonService.findAllObjects();
-//       // List<HazardObjects> res = DaoFactory.getInstance().getHazardObjectsDao().findAll();
-//        System.out.println(all);
-//    }
+    public static void main(String[] args) {
+        JsonService jsonService = DefaultJsonService.getInstance();
+       List<HazardObjects> all = jsonService.findAllObjects();
+       // List<HazardObjects> res = DaoFactory.getInstance().getHazardObjectsDao().findAll();
+        System.out.println(all);
+    }
 }
 
 

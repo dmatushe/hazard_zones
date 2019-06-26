@@ -12,8 +12,6 @@
 <fmt:setBundle basename="text"/>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/bootstrap.css"/>">
-    <link rel="stylesheet" type="text/js" href="<c:url value="/resources/js/bootstrap.js"/>">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top" style="background-color: #5a6268">

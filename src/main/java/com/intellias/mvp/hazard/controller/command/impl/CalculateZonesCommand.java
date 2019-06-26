@@ -1,6 +1,7 @@
 package com.intellias.mvp.hazard.controller.command.impl;
 
 import com.intellias.mvp.hazard.controller.command.Command;
+import com.intellias.mvp.hazard.model.dto.PopulationStatistic;
 import com.intellias.mvp.hazard.model.entity.HazardObjects;
 import com.intellias.mvp.hazard.model.entity.ImpactZone;
 import com.intellias.mvp.hazard.model.service.CalculateHazardZones;
@@ -25,28 +26,22 @@ public class CalculateZonesCommand implements Command {
     @Override
     public String execute(HttpServletRequest request, HttpServletResponse response) {
 
-        //TODO
-        //Считать объект и тип ситуации. Передать на сервис, там вызвать запрос к бд, обработать результат
-        //Вывести на главную новый геогсон и количество пострадавших.
         Long objectId = Long.parseLong(request.getParameter("object_id"));
-        Long zoneId = Long.parseLong(request.getParameter("class_id"));
-        String resultGeoJson = calculateHazardZones.calculateZones(objectId, zoneId);
-        Integer impactPopulation = calculateHazardZones.calculateImpactPopulation(objectId, zoneId);
+        String resultGeoJson = calculateHazardZones.calculateZones(objectId);
+        String resultStatGeoJson = calculateHazardZones.calculateStatZones(objectId);
+        PopulationStatistic populationStatistic = calculateHazardZones.calculateImpactPopulation(objectId);
 
-
+        //area_stat_view_point
+        request.setAttribute("result_stat_geojson", resultStatGeoJson);
+        //area_stat_view
         request.setAttribute("result_geojson", resultGeoJson);
-        request.setAttribute("result_population", impactPopulation);
+
+        request.setAttribute("result_population", populationStatistic);
 
 
-
-       //Again fill in the dropdown menus
+        //  Again fill in the dropdown menu
         List<HazardObjects> allObjects = jsonService.findAllObjects();
-        List<ImpactZone> allZones = jsonService.findAllZones();
-
         request.setAttribute("hazard_objects", allObjects);
-        request.setAttribute("hazard_classes", allZones);
-
-
         return PathManager.getProperty("path.page.main");
     }
 }

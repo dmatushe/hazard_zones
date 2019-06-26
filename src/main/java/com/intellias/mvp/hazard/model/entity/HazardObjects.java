@@ -1,6 +1,5 @@
 package com.intellias.mvp.hazard.model.entity;
 
-import org.postgis.Geometry;
 import org.postgis.PGgeometry;
 
 import java.util.Objects;
@@ -8,12 +7,21 @@ import java.util.Objects;
 public class HazardObjects {
     private Long gid;
     private String name;
+    private String nameEng;
     private String classType;
     private String city;
     private String street;
     private String houseNum;
     private Integer classInt;
     private PGgeometry geom;
+
+    public String getNameEng() {
+        return nameEng;
+    }
+
+    public void setNameEng(String nameEng) {
+        this.nameEng = nameEng;
+    }
 
     public Long getGid() {
         return gid;
@@ -99,10 +107,11 @@ public class HazardObjects {
         return "HazardObjects{" +
                 "gid=" + gid +
                 ", name='" + name + '\'' +
+                ", nameEng='" + nameEng + '\'' +
                 ", classType='" + classType + '\'' +
                 ", city='" + city + '\'' +
                 ", street='" + street + '\'' +
-                ", houseNum=" + houseNum +
+                ", houseNum='" + houseNum + '\'' +
                 ", classInt=" + classInt +
                 ", geom=" + geom +
                 '}';

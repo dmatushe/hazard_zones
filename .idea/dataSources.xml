@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="escape_plan@localhost" uuid="06f82f99-6ed5-403c-8e9c-54e01c001a6f">
+    <data-source source="LOCAL" name="int_hazard_zones" uuid="c4bb0e24-a215-439a-a89a-c2cfd9b3162d">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/escape_plan</jdbc-url>
+      <jdbc-url>jdbc:postgresql://192.168.102.44:5432/int_hazard_zones</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="testing" uuid="bf2b3b30-4bff-43f4-aec1-7cb4dc7192d7">
+    <data-source source="LOCAL" name="postgis_24_sample@localhost" uuid="4f288089-8a22-4ae6-8543-6c3945ea4398">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
